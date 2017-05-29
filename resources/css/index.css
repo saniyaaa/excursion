@@ -1,13 +1,40 @@
 * {
-  font-family: Helvetica, sans-serif;
+  background-color: black;
+  font:verdana;
 }
-
-
-h1 {
-  color: DarkGreen;
+.all{
+  text-align: center;
 }
-
-
-h2 {
-  color: Seagreen;
+.header{
+  font-family:Verdana;
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
+.download{
+  font-family:Verdana;
+  font-size: 16px;
+  font-weight: normal;
+  color: aquamarine;
+}
+.nextheader{
+  font-family:Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+  text-align: center;
+}
+.purpose{
+  font-family:Verdana;
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+  text-align: center;
+}
+.footer {
+  text-align: right;
+  color:gray;
+  width: 100%;
+  font:verdana;
 }
